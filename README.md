@@ -1,5 +1,5 @@
 ### Hi there, I'm sayan.👋
-- 🔭 I’m currently working on ...AI
+- 🔭 I’m currently working on ...AI GenAI
 - 🌱 I’m currently learning ...Artificial Inteligence and Machine learning
 - 🤔 I’m looking for help with ...Nothing rn
 - 💬 Ask me about ...anything I guess
